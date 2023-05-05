@@ -1,10 +1,9 @@
 ﻿using NUnit.Framework;
 
-namespace Codecool.Histogram.UnitTests
+namespace Codecool.Histogram.UnitTests;
+
+[TestFixture]
+public class HistogramTests
 {
-    [TestFixture]
-    public class HistogramTests
-    {
         
-    }
 }
